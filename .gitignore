@@ -4,6 +4,10 @@
 # Log file
 *.log
 
+# Local secrets and credentials
+.env
+service-account-key.json
+
 # BlueJ files
 *.ctxt
 
